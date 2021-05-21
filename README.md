@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dinesha D
-- :sparkling_heart: I love JavaScript.
-- 🌱 Currently I am learning full stack JavaScript Development.
+- 👋 Hi, I’m DD
+- :sparkling_heart: I love solving problems with the help of programming. 
+- 🌱 
 - :notes: My other interest is database design and development.
 - 📫 You can reach me through my LinkedIn profile https://www.linkedin.com/in/dineshadayananda/
 <!---
